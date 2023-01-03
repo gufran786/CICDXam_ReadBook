@@ -19,8 +19,8 @@ namespace ReadBooks
         protected override void OnStart()
         {
             // Handle when your app starts
-            AppCenter.Start("ios=e4b32249-7487-47e5-9cac-b31e2ebf3da4;" +
-                            "android=38a317ba-fd86-4a85-977c-abdb53f81f52",
+            AppCenter.Start("ios=14c9c873-e50b-4313-8aaa-c7922364d610;" +
+                            "android=4cbe7d61-c674-400c-9c6e-c0a65f68cc28",
                             typeof(Analytics), typeof(Crashes));
         }
 

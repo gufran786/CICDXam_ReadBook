@@ -1,6 +1,6 @@
 # CICDXam_ReadBook
-Creating for CI/CD exampl
+Creating for CI/CD example33
 
 |Android|iOS|
 |---|---|
-|[![Build status](https://build.appcenter.ms/v0.1/apps/9ae13542-88b3-4a19-9795-45ab357f0672/branches/dev/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/65943d1b-e327-4e78-bde6-ae5bbfb0ceb8/branches/dev/badge)](https://appcenter.ms)|
+|[![Build status](https://build.appcenter.ms/v0.1/apps/5ab44c63-97c3-4b42-a454-47d66f70decf/branches/dev/badge)](https://appcenter.ms)|[![Build status](https://build.appcenter.ms/v0.1/apps/4105e3fe-1fec-4bcb-ac71-1e4ecc882c8f/branches/dev/badge)](https://appcenter.ms)|
