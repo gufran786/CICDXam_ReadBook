@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.AppCenter.Crashes;
+using System;
 using System.Collections.Generic;
 
 using Xamarin.Forms;
@@ -14,8 +15,10 @@ namespace ReadBooks
 
         async void LoginButton_Clicked(object sender, System.EventArgs e)
         {
+            Crashes.GenerateTestCrash();
             try
             {
+                
                 //TODO: adding login
                 Dictionary<string, string> keyValuePairs = new Dictionary<string, string>
                 {
